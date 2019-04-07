@@ -1,4 +1,4 @@
-# accident_detection
+# accident aand alert system
 Real Time Detecting accident from CCTV videos using CNN
 
 Inception-v3 model is used for transfer learning
